@@ -4,7 +4,7 @@
    when it opens, turns on the LED without changing the state of other pins
  *
  * Created: 17-Aprial-2022 06:20:30 PM
- * Author : Pradeep
+ * Author : Gayathri
  */ 
 
 #include <avr/io.h>
